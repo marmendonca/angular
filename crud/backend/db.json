@@ -19,6 +19,11 @@
       "name": "geladeira",
       "price": "1900,17",
       "id": 4
+    },
+    {
+      "name": "teste",
+      "price": 125.98,
+      "id": 5
     }
   ]
 }
