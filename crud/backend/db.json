@@ -24,6 +24,41 @@
       "name": "teste",
       "price": 125.98,
       "id": 5
+    },
+    {
+      "name": "veio do formulario",
+      "price": "9,99",
+      "id": 6
+    },
+    {
+      "name": "Geladeira",
+      "price": "1.999",
+      "id": 7
+    },
+    {
+      "name": "Ferro",
+      "price": "99.9",
+      "id": 8
+    },
+    {
+      "name": "Ferro2",
+      "price": "9.99",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 11
+    },
+    {
+      "name": "Papel",
+      "price": "2",
+      "id": 12
     }
   ]
 }
